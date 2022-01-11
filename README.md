@@ -1,16 +1,19 @@
-# event_calendar
+# Calendar_Events_Managment
 
-A new Flutter application.
+Using syncfusion_flutter_calendar package.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshorts
 
-A few resources to get you started if this is your first Flutter project:
+<p>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/26364962/148944057-e1d2386b-1775-4459-91ad-8cd19c861bae.png">
+    <img src="https://user-images.githubusercontent.com/26364962/148944057-e1d2386b-1775-4459-91ad-8cd19c861bae.png" height="600" width="320">
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/26364962/148944065-fb1f1a11-cf9d-402d-be3a-070d80338cf2.png">
+    <img src="https://user-images.githubusercontent.com/26364962/148944065-fb1f1a11-cf9d-402d-be3a-070d80338cf2.png" height="600" width="320">
+  </a>
+  
+</P>  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
